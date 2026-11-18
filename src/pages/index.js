@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as About } from './About'
+export { default as Projects } from './Projects'
+export { default as Process } from './Process'
+export { default as Experience } from './Experience'
+export { default as Tools } from './Tools'
+export { default as MoreWork } from './MoreWork'
+export { default as Contact } from './Contact'
